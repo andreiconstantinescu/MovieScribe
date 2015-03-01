@@ -1,0 +1,20 @@
+2015-03-01 10:59:00,767 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.null:IngineriaProgramarii:0.0.1-SNAPSHOT @ /home/vlad/Desktop/workspace/Server/IngineriaProgramarii/pom.xml.
+2015-03-01 10:59:02,793 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /IngineriaProgramarii/src/main/java
+2015-03-01 10:59:02,794 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /IngineriaProgramarii/src/main/resources
+2015-03-01 10:59:02,794 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /IngineriaProgramarii/src/test/java
+2015-03-01 10:59:03,642 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.null:IngineriaProgramarii:0.0.1-SNAPSHOT @ /home/vlad/Desktop/workspace/Server/IngineriaProgramarii/pom.xml.
+2015-03-01 10:59:05,199 [Worker-1] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 5 sec
+2015-03-01 10:59:06,049 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-03-01 10:59:06,054 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-03-01 10:59:06,064 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-03-01 10:59:06,065 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/vlad/Desktop/workspace/Server/IngineriaProgramarii/src/test/resources
+2015-03-01 11:01:34,576 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-03-01 11:01:34,578 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-03-01 11:01:34,579 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-03-01 11:01:34,580 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/vlad/Desktop/workspace/Server/IngineriaProgramarii/src/test/resources
+2015-03-01 11:02:54,337 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-8.1.16.v20140903
+2015-03-01 11:02:54,360 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started SelectChannelConnector@127.0.0.1:50874
+2015-03-01 11:03:46,159 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-03-01 11:03:46,162 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-03-01 11:03:46,164 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-03-01 11:03:46,164 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/vlad/Desktop/workspace/Server/IngineriaProgramarii/src/test/resources
