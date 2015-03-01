@@ -1,0 +1,29 @@
+{
+  "name": "movie-scribe",
+  "version": "0.0.1",
+  "description": "The frontend of the software engineering project movieScribe.",
+  "main": "main.js ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andreiconstantinescu/MovieScribe"
+  },
+  "keywords": [
+    "movie",
+    "recommendations",
+    "system",
+    "university",
+    "project"
+  ],
+  "author": [
+    "Andrei Constantinescu <andrei@constantinescu.io>",
+    "Gabor Gabriel <gabrielgabor@live.com>"
+  ],
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/andreiconstantinescu/MovieScribe/issues"
+  },
+  "homepage": "https://github.com/andreiconstantinescu/MovieScribe"
+}
